@@ -1,0 +1,25 @@
+{
+  "name": "yoyoyo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenwhih/carcar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenwhih/carcar/issues"
+  },
+  "homepage": "https://github.com/wenwhih/carcar#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.7.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
+  }
+}
